@@ -1,0 +1,2541 @@
+{
+    "players": [
+        {
+            "id": "a1b2c3d4e5f60718",
+            "nome": "Biel",
+            "mensalista": true,
+            "gols": 62,
+            "assistencias": 0,
+            "vitorias": 63
+        },
+        {
+            "id": "b2c3d4e5f6071819",
+            "nome": "Ademar",
+            "mensalista": true,
+            "gols": 43,
+            "assistencias": 0,
+            "vitorias": 65
+        },
+        {
+            "id": "c3d4e5f60718192a",
+            "nome": "Anderson",
+            "mensalista": true,
+            "gols": 52,
+            "assistencias": 0,
+            "vitorias": 58
+        },
+        {
+            "id": "d4e5f60718192a3b",
+            "nome": "Nathan",
+            "mensalista": true,
+            "gols": 47,
+            "assistencias": 0,
+            "vitorias": 61
+        },
+        {
+            "id": "e5f60718192a3b4c",
+            "nome": "Jhimmy",
+            "mensalista": true,
+            "gols": 38,
+            "assistencias": 0,
+            "vitorias": 70
+        },
+        {
+            "id": "f60718192a3b4c5d",
+            "nome": "Canga",
+            "mensalista": true,
+            "gols": 34,
+            "assistencias": 0,
+            "vitorias": 61
+        },
+        {
+            "id": "0718192a3b4c5d6e",
+            "nome": "Tiago",
+            "mensalista": true,
+            "gols": 14,
+            "assistencias": 0,
+            "vitorias": 51
+        },
+        {
+            "id": "18192a3b4c5d6e7f",
+            "nome": "Thassyo",
+            "mensalista": true,
+            "gols": 15,
+            "assistencias": 0,
+            "vitorias": 55
+        },
+        {
+            "id": "192a3b4c5d6e7f80",
+            "nome": "Luam",
+            "mensalista": true,
+            "gols": 17,
+            "assistencias": 0,
+            "vitorias": 54
+        },
+        {
+            "id": "2a3b4c5d6e7f8091",
+            "nome": "Andre",
+            "mensalista": true,
+            "gols": 22,
+            "assistencias": 0,
+            "vitorias": 52
+        },
+        {
+            "id": "3b4c5d6e7f8091a2",
+            "nome": "Tardelly",
+            "mensalista": true,
+            "gols": 15,
+            "assistencias": 0,
+            "vitorias": 53
+        },
+        {
+            "id": "4c5d6e7f8091a2b3",
+            "nome": "Zé Filho",
+            "mensalista": true,
+            "gols": 34,
+            "assistencias": 0,
+            "vitorias": 37
+        },
+        {
+            "id": "5d6e7f8091a2b3c4",
+            "nome": "Felipe",
+            "mensalista": true,
+            "gols": 23,
+            "assistencias": 0,
+            "vitorias": 42
+        },
+        {
+            "id": "6e7f8091a2b3c4d5",
+            "nome": "Arthur Leite",
+            "mensalista": true,
+            "gols": 17,
+            "assistencias": 0,
+            "vitorias": 41
+        },
+        {
+            "id": "7f8091a2b3c4d5e6",
+            "nome": "Gleison",
+            "mensalista": true,
+            "gols": 22,
+            "assistencias": 0,
+            "vitorias": 40
+        },
+        {
+            "id": "8091a2b3c4d5e6f7",
+            "nome": "Anthony",
+            "mensalista": true,
+            "gols": 25,
+            "assistencias": 0,
+            "vitorias": 44
+        },
+        {
+            "id": "91a2b3c4d5e6f708",
+            "nome": "Bruno",
+            "mensalista": true,
+            "gols": 5,
+            "assistencias": 0,
+            "vitorias": 41
+        },
+        {
+            "id": "a2b3c4d5e6f70819",
+            "nome": "Luiz",
+            "mensalista": true,
+            "gols": 8,
+            "assistencias": 0,
+            "vitorias": 13
+        },
+        {
+            "id": "b3c4d5e6f708192a",
+            "nome": "Rafael",
+            "mensalista": true,
+            "gols": 7,
+            "assistencias": 0,
+            "vitorias": 14
+        },
+        {
+            "id": "c4d5e6f708192a3b",
+            "nome": "Leo Baiano",
+            "mensalista": true,
+            "gols": 5,
+            "assistencias": 0,
+            "vitorias": 4
+        },
+        {
+            "id": "d5e6f708192a3b4c",
+            "nome": "Daniel",
+            "mensalista": true,
+            "gols": 7,
+            "assistencias": 0,
+            "vitorias": 7
+        },
+        {
+            "id": "b25d1c0f187c9624",
+            "nome": "Ruan",
+            "mensalista": false,
+            "gols": 5,
+            "assistencias": 0,
+            "vitorias": 4
+        },
+        {
+            "id": "0ffb8131f607d489",
+            "nome": "Júnior Paraguai",
+            "mensalista": false,
+            "gols": 3,
+            "assistencias": 0,
+            "vitorias": 3
+        },
+        {
+            "id": "1f4cc5a57007adf5",
+            "nome": "Marinho",
+            "mensalista": false,
+            "gols": 5,
+            "assistencias": 0,
+            "vitorias": 10
+        },
+        {
+            "id": "11374c700ef65ded",
+            "nome": "Lelo",
+            "mensalista": false,
+            "gols": 3,
+            "assistencias": 0,
+            "vitorias": 7
+        },
+        {
+            "id": "f1cbed003bb04a74",
+            "nome": "AVULSO 1",
+            "mensalista": false,
+            "gols": 0,
+            "assistencias": 0,
+            "vitorias": 1
+        },
+        {
+            "id": "a2d672d304a1fbf9",
+            "nome": "AVULSO 2",
+            "mensalista": false,
+            "gols": 0,
+            "assistencias": 0,
+            "vitorias": 0
+        },
+        {
+            "id": "6c0b9d6233e5db05",
+            "nome": "AVULSO 3",
+            "mensalista": false,
+            "gols": 0,
+            "assistencias": 0,
+            "vitorias": 0
+        },
+        {
+            "id": "f920995465f65cc4",
+            "nome": "AVULSO 4",
+            "mensalista": false,
+            "gols": 0,
+            "assistencias": 0,
+            "vitorias": 0
+        },
+        {
+            "id": "e854a9b102b1cce4",
+            "nome": "AVULSO 5",
+            "mensalista": false,
+            "gols": 0,
+            "assistencias": 0,
+            "vitorias": 0
+        },
+        {
+            "id": "e47d61a2a44b9597",
+            "nome": "Lucas (Thassyo)",
+            "mensalista": false,
+            "gols": 0,
+            "assistencias": 0,
+            "vitorias": 2
+        },
+        {
+            "id": "7f61bc759eaaf783",
+            "nome": "Del",
+            "mensalista": false,
+            "gols": 0,
+            "assistencias": 0,
+            "vitorias": 1
+        },
+        {
+            "id": "fc718e9d4f687c53",
+            "nome": "Samuel",
+            "mensalista": false,
+            "gols": 0,
+            "assistencias": 0,
+            "vitorias": 2
+        },
+        {
+            "id": "7fd808a7323e1a10",
+            "nome": "Marcelo",
+            "mensalista": false,
+            "gols": 1,
+            "assistencias": 0,
+            "vitorias": 3
+        },
+        {
+            "id": "04bc008bd585f025",
+            "nome": "João Ferraro",
+            "mensalista": false,
+            "gols": 2,
+            "assistencias": 0,
+            "vitorias": 5
+        },
+        {
+            "id": "f2807aedb3f01113",
+            "nome": "Jemerson",
+            "mensalista": false,
+            "gols": 0,
+            "assistencias": 0,
+            "vitorias": 1
+        },
+        {
+            "id": "559eb9e38b38c364",
+            "nome": "Arthur Brandão",
+            "mensalista": false,
+            "gols": 5,
+            "assistencias": 0,
+            "vitorias": 3
+        },
+        {
+            "id": "94412480444f4ac9",
+            "nome": "Rodrigo",
+            "mensalista": false,
+            "gols": 2,
+            "assistencias": 0,
+            "vitorias": 1
+        },
+        {
+            "id": "6ccb1761b1c3bde1",
+            "nome": "Henrique",
+            "mensalista": false,
+            "gols": 0,
+            "assistencias": 0,
+            "vitorias": 2
+        },
+        {
+            "id": "94c93d3fec3617f6",
+            "nome": "Lucão",
+            "mensalista": false,
+            "gols": 3,
+            "assistencias": 0,
+            "vitorias": 2
+        }
+    ],
+    "peladas": [
+        {
+            "id": "3cb5f83ad1ff2ce2",
+            "data": "2026-09-02",
+            "observacao": "",
+            "partidas": [
+                {
+                    "id": "933f6877e3b5b386",
+                    "time_a": {
+                        "jogadores": [
+                            "a1b2c3d4e5f60718",
+                            "5d6e7f8091a2b3c4",
+                            "b3c4d5e6f708192a",
+                            "a2b3c4d5e6f70819",
+                            "7f61bc759eaaf783"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "a1b2c3d4e5f60718": 0,
+                            "5d6e7f8091a2b3c4": 0,
+                            "b3c4d5e6f708192a": 0,
+                            "a2b3c4d5e6f70819": 0,
+                            "7f61bc759eaaf783": 0
+                        }
+                    },
+                    "time_b": {
+                        "jogadores": [
+                            "d4e5f60718192a3b",
+                            "7f8091a2b3c4d5e6",
+                            "192a3b4c5d6e7f80",
+                            "18192a3b4c5d6e7f",
+                            "fc718e9d4f687c53"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "d4e5f60718192a3b": 1,
+                            "7f8091a2b3c4d5e6": 0,
+                            "192a3b4c5d6e7f80": 0,
+                            "18192a3b4c5d6e7f": 0,
+                            "fc718e9d4f687c53": 0
+                        }
+                    },
+                    "placar_a": 0,
+                    "placar_b": 1,
+                    "vencedor": "b",
+                    "observacao": ""
+                },
+                {
+                    "id": "6f4aa6cb8be375b2",
+                    "time_a": {
+                        "jogadores": [
+                            "8091a2b3c4d5e6f7",
+                            "e5f60718192a3b4c",
+                            "c4d5e6f708192a3b",
+                            "c3d4e5f60718192a",
+                            "3b4c5d6e7f8091a2"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "8091a2b3c4d5e6f7": 1,
+                            "e5f60718192a3b4c": 0,
+                            "c4d5e6f708192a3b": 0,
+                            "c3d4e5f60718192a": 0,
+                            "3b4c5d6e7f8091a2": 0
+                        }
+                    },
+                    "time_b": {
+                        "jogadores": [
+                            "d4e5f60718192a3b",
+                            "7f8091a2b3c4d5e6",
+                            "192a3b4c5d6e7f80",
+                            "18192a3b4c5d6e7f",
+                            "fc718e9d4f687c53"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "d4e5f60718192a3b": 1,
+                            "7f8091a2b3c4d5e6": 1,
+                            "192a3b4c5d6e7f80": 0,
+                            "18192a3b4c5d6e7f": 0,
+                            "fc718e9d4f687c53": 0
+                        }
+                    },
+                    "placar_a": 1,
+                    "placar_b": 2,
+                    "vencedor": "b",
+                    "observacao": ""
+                },
+                {
+                    "id": "653856ee6074d333",
+                    "time_a": {
+                        "jogadores": [
+                            "b2c3d4e5f6071819",
+                            "d5e6f708192a3b4c",
+                            "f60718192a3b4c5d",
+                            "0718192a3b4c5d6e",
+                            "2a3b4c5d6e7f8091"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "b2c3d4e5f6071819": 0,
+                            "d5e6f708192a3b4c": 1,
+                            "f60718192a3b4c5d": 1,
+                            "0718192a3b4c5d6e": 0,
+                            "2a3b4c5d6e7f8091": 1
+                        }
+                    },
+                    "time_b": {
+                        "jogadores": [
+                            "d4e5f60718192a3b",
+                            "7f8091a2b3c4d5e6",
+                            "192a3b4c5d6e7f80",
+                            "18192a3b4c5d6e7f",
+                            "fc718e9d4f687c53"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "d4e5f60718192a3b": 0,
+                            "7f8091a2b3c4d5e6": 0,
+                            "192a3b4c5d6e7f80": 0,
+                            "18192a3b4c5d6e7f": 0,
+                            "fc718e9d4f687c53": 0
+                        }
+                    },
+                    "placar_a": 3,
+                    "placar_b": 0,
+                    "vencedor": "a",
+                    "observacao": ""
+                },
+                {
+                    "id": "27b6b57e01810391",
+                    "time_a": {
+                        "jogadores": [
+                            "a1b2c3d4e5f60718",
+                            "5d6e7f8091a2b3c4",
+                            "b3c4d5e6f708192a",
+                            "a2b3c4d5e6f70819",
+                            "7f61bc759eaaf783"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "a1b2c3d4e5f60718": 0,
+                            "5d6e7f8091a2b3c4": 1,
+                            "b3c4d5e6f708192a": 0,
+                            "a2b3c4d5e6f70819": 0,
+                            "7f61bc759eaaf783": 0
+                        }
+                    },
+                    "time_b": {
+                        "jogadores": [
+                            "b2c3d4e5f6071819",
+                            "d5e6f708192a3b4c",
+                            "f60718192a3b4c5d",
+                            "0718192a3b4c5d6e",
+                            "2a3b4c5d6e7f8091"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "b2c3d4e5f6071819": 2,
+                            "d5e6f708192a3b4c": 0,
+                            "f60718192a3b4c5d": 0,
+                            "0718192a3b4c5d6e": 0,
+                            "2a3b4c5d6e7f8091": 1
+                        }
+                    },
+                    "placar_a": 1,
+                    "placar_b": 3,
+                    "vencedor": "b",
+                    "observacao": ""
+                },
+                {
+                    "id": "612565e48650949d",
+                    "time_a": {
+                        "jogadores": [
+                            "8091a2b3c4d5e6f7",
+                            "e5f60718192a3b4c",
+                            "c4d5e6f708192a3b",
+                            "c3d4e5f60718192a",
+                            "3b4c5d6e7f8091a2"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "8091a2b3c4d5e6f7": 0,
+                            "e5f60718192a3b4c": 0,
+                            "c4d5e6f708192a3b": 1,
+                            "c3d4e5f60718192a": 1,
+                            "3b4c5d6e7f8091a2": 0
+                        }
+                    },
+                    "time_b": {
+                        "jogadores": [
+                            "b2c3d4e5f6071819",
+                            "d5e6f708192a3b4c",
+                            "f60718192a3b4c5d",
+                            "0718192a3b4c5d6e",
+                            "2a3b4c5d6e7f8091"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "b2c3d4e5f6071819": 0,
+                            "d5e6f708192a3b4c": 1,
+                            "f60718192a3b4c5d": 0,
+                            "0718192a3b4c5d6e": 0,
+                            "2a3b4c5d6e7f8091": 0
+                        }
+                    },
+                    "placar_a": 2,
+                    "placar_b": 1,
+                    "vencedor": "a",
+                    "observacao": ""
+                },
+                {
+                    "id": "5ebbd61a3a91f76f",
+                    "time_a": {
+                        "jogadores": [
+                            "d4e5f60718192a3b",
+                            "7f8091a2b3c4d5e6",
+                            "192a3b4c5d6e7f80",
+                            "18192a3b4c5d6e7f",
+                            "fc718e9d4f687c53"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "d4e5f60718192a3b": 0,
+                            "7f8091a2b3c4d5e6": 0,
+                            "192a3b4c5d6e7f80": 0,
+                            "18192a3b4c5d6e7f": 0,
+                            "fc718e9d4f687c53": 0
+                        }
+                    },
+                    "time_b": {
+                        "jogadores": [
+                            "8091a2b3c4d5e6f7",
+                            "e5f60718192a3b4c",
+                            "c4d5e6f708192a3b",
+                            "c3d4e5f60718192a",
+                            "3b4c5d6e7f8091a2"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "8091a2b3c4d5e6f7": 0,
+                            "e5f60718192a3b4c": 0,
+                            "c4d5e6f708192a3b": 0,
+                            "c3d4e5f60718192a": 2,
+                            "3b4c5d6e7f8091a2": 0
+                        }
+                    },
+                    "placar_a": 0,
+                    "placar_b": 2,
+                    "vencedor": "b",
+                    "observacao": ""
+                },
+                {
+                    "id": "a8eceeeb0f1f7073",
+                    "time_a": {
+                        "jogadores": [
+                            "a1b2c3d4e5f60718",
+                            "5d6e7f8091a2b3c4",
+                            "b3c4d5e6f708192a",
+                            "a2b3c4d5e6f70819",
+                            "7f61bc759eaaf783"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "a1b2c3d4e5f60718": 1,
+                            "5d6e7f8091a2b3c4": 1,
+                            "b3c4d5e6f708192a": 0,
+                            "a2b3c4d5e6f70819": 1,
+                            "7f61bc759eaaf783": 0
+                        }
+                    },
+                    "time_b": {
+                        "jogadores": [
+                            "8091a2b3c4d5e6f7",
+                            "e5f60718192a3b4c",
+                            "c4d5e6f708192a3b",
+                            "c3d4e5f60718192a",
+                            "3b4c5d6e7f8091a2"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "8091a2b3c4d5e6f7": 1,
+                            "e5f60718192a3b4c": 0,
+                            "c4d5e6f708192a3b": 0,
+                            "c3d4e5f60718192a": 1,
+                            "3b4c5d6e7f8091a2": 0
+                        }
+                    },
+                    "placar_a": 3,
+                    "placar_b": 2,
+                    "vencedor": "a",
+                    "observacao": ""
+                },
+                {
+                    "id": "db9153150227e121",
+                    "time_a": {
+                        "jogadores": [
+                            "b2c3d4e5f6071819",
+                            "d5e6f708192a3b4c",
+                            "f60718192a3b4c5d",
+                            "0718192a3b4c5d6e",
+                            "2a3b4c5d6e7f8091"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "b2c3d4e5f6071819": 0,
+                            "d5e6f708192a3b4c": 2,
+                            "f60718192a3b4c5d": 1,
+                            "0718192a3b4c5d6e": 0,
+                            "2a3b4c5d6e7f8091": 0
+                        }
+                    },
+                    "time_b": {
+                        "jogadores": [
+                            "a1b2c3d4e5f60718",
+                            "5d6e7f8091a2b3c4",
+                            "b3c4d5e6f708192a",
+                            "a2b3c4d5e6f70819",
+                            "7f61bc759eaaf783"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "a1b2c3d4e5f60718": 0,
+                            "5d6e7f8091a2b3c4": 0,
+                            "b3c4d5e6f708192a": 0,
+                            "a2b3c4d5e6f70819": 0,
+                            "7f61bc759eaaf783": 0
+                        }
+                    },
+                    "placar_a": 3,
+                    "placar_b": 0,
+                    "vencedor": "a",
+                    "observacao": ""
+                },
+                {
+                    "id": "2a60fe26c5721b22",
+                    "time_a": {
+                        "jogadores": [
+                            "d4e5f60718192a3b",
+                            "7f8091a2b3c4d5e6",
+                            "192a3b4c5d6e7f80",
+                            "18192a3b4c5d6e7f",
+                            "3b4c5d6e7f8091a2"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "d4e5f60718192a3b": 1,
+                            "7f8091a2b3c4d5e6": 0,
+                            "192a3b4c5d6e7f80": 0,
+                            "18192a3b4c5d6e7f": 0,
+                            "3b4c5d6e7f8091a2": 0
+                        }
+                    },
+                    "time_b": {
+                        "jogadores": [
+                            "b2c3d4e5f6071819",
+                            "d5e6f708192a3b4c",
+                            "f60718192a3b4c5d",
+                            "0718192a3b4c5d6e",
+                            "2a3b4c5d6e7f8091"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "b2c3d4e5f6071819": 0,
+                            "d5e6f708192a3b4c": 0,
+                            "f60718192a3b4c5d": 0,
+                            "0718192a3b4c5d6e": 0,
+                            "2a3b4c5d6e7f8091": 1
+                        }
+                    },
+                    "placar_a": 1,
+                    "placar_b": 1,
+                    "vencedor": "empate",
+                    "observacao": ""
+                },
+                {
+                    "id": "9f6ec3ac7acdabb5",
+                    "time_a": {
+                        "jogadores": [
+                            "8091a2b3c4d5e6f7",
+                            "e5f60718192a3b4c",
+                            "c4d5e6f708192a3b",
+                            "c3d4e5f60718192a",
+                            "3b4c5d6e7f8091a2"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "8091a2b3c4d5e6f7": 1,
+                            "e5f60718192a3b4c": 0,
+                            "c4d5e6f708192a3b": 1,
+                            "c3d4e5f60718192a": 0,
+                            "3b4c5d6e7f8091a2": 0
+                        }
+                    },
+                    "time_b": {
+                        "jogadores": [
+                            "a1b2c3d4e5f60718",
+                            "5d6e7f8091a2b3c4",
+                            "b3c4d5e6f708192a",
+                            "a2b3c4d5e6f70819",
+                            "7f61bc759eaaf783"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "a1b2c3d4e5f60718": 1,
+                            "5d6e7f8091a2b3c4": 0,
+                            "b3c4d5e6f708192a": 0,
+                            "a2b3c4d5e6f70819": 0,
+                            "7f61bc759eaaf783": 0
+                        }
+                    },
+                    "placar_a": 2,
+                    "placar_b": 1,
+                    "vencedor": "a",
+                    "observacao": ""
+                }
+            ]
+        },
+        {
+            "id": "b9ddec35a6f237d3",
+            "data": "2026-07-29",
+            "observacao": "",
+            "partidas": [
+                {
+                    "id": "003bd17b7818bb40",
+                    "time_a": {
+                        "jogadores": [
+                            "d4e5f60718192a3b",
+                            "7f8091a2b3c4d5e6",
+                            "04bc008bd585f025",
+                            "6ccb1761b1c3bde1",
+                            "94c93d3fec3617f6"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "d4e5f60718192a3b": 1,
+                            "7f8091a2b3c4d5e6": 0,
+                            "04bc008bd585f025": 0,
+                            "6ccb1761b1c3bde1": 0,
+                            "94c93d3fec3617f6": 1
+                        }
+                    },
+                    "time_b": {
+                        "jogadores": [
+                            "b2c3d4e5f6071819",
+                            "e5f60718192a3b4c",
+                            "192a3b4c5d6e7f80",
+                            "2a3b4c5d6e7f8091",
+                            "6e7f8091a2b3c4d5"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "b2c3d4e5f6071819": 0,
+                            "e5f60718192a3b4c": 1,
+                            "192a3b4c5d6e7f80": 0,
+                            "2a3b4c5d6e7f8091": 0,
+                            "6e7f8091a2b3c4d5": 1
+                        }
+                    },
+                    "placar_a": 2,
+                    "placar_b": 2,
+                    "vencedor": "b",
+                    "observacao": ""
+                },
+                {
+                    "id": "74bb0a52749743e2",
+                    "time_a": {
+                        "jogadores": [
+                            "1f4cc5a57007adf5",
+                            "b3c4d5e6f708192a",
+                            "3b4c5d6e7f8091a2",
+                            "0718192a3b4c5d6e",
+                            "f60718192a3b4c5d"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "1f4cc5a57007adf5": 0,
+                            "b3c4d5e6f708192a": 0,
+                            "3b4c5d6e7f8091a2": 0,
+                            "0718192a3b4c5d6e": 1,
+                            "f60718192a3b4c5d": 0
+                        }
+                    },
+                    "time_b": {
+                        "jogadores": [
+                            "b2c3d4e5f6071819",
+                            "e5f60718192a3b4c",
+                            "192a3b4c5d6e7f80",
+                            "2a3b4c5d6e7f8091",
+                            "18192a3b4c5d6e7f"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "b2c3d4e5f6071819": 0,
+                            "e5f60718192a3b4c": 0,
+                            "192a3b4c5d6e7f80": 1,
+                            "2a3b4c5d6e7f8091": 0,
+                            "18192a3b4c5d6e7f": 0
+                        }
+                    },
+                    "placar_a": 1,
+                    "placar_b": 1,
+                    "vencedor": "a",
+                    "observacao": ""
+                },
+                {
+                    "id": "2bfe8fb0427c1960",
+                    "time_a": {
+                        "jogadores": [
+                            "d4e5f60718192a3b",
+                            "7f8091a2b3c4d5e6",
+                            "04bc008bd585f025",
+                            "6ccb1761b1c3bde1",
+                            "94c93d3fec3617f6"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "d4e5f60718192a3b": 0,
+                            "7f8091a2b3c4d5e6": 0,
+                            "04bc008bd585f025": 0,
+                            "6ccb1761b1c3bde1": 0,
+                            "94c93d3fec3617f6": 1
+                        }
+                    },
+                    "time_b": {
+                        "jogadores": [
+                            "a1b2c3d4e5f60718",
+                            "18192a3b4c5d6e7f",
+                            "0718192a3b4c5d6e",
+                            "6e7f8091a2b3c4d5",
+                            "b3c4d5e6f708192a"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "a1b2c3d4e5f60718": 0,
+                            "18192a3b4c5d6e7f": 0,
+                            "0718192a3b4c5d6e": 0,
+                            "6e7f8091a2b3c4d5": 0,
+                            "b3c4d5e6f708192a": 0
+                        }
+                    },
+                    "placar_a": 1,
+                    "placar_b": 0,
+                    "vencedor": "a",
+                    "observacao": ""
+                },
+                {
+                    "id": "be6c6f557bbb5e23",
+                    "time_a": {
+                        "jogadores": [
+                            "d4e5f60718192a3b",
+                            "7f8091a2b3c4d5e6",
+                            "04bc008bd585f025",
+                            "6ccb1761b1c3bde1",
+                            "94c93d3fec3617f6"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "d4e5f60718192a3b": 0,
+                            "7f8091a2b3c4d5e6": 0,
+                            "04bc008bd585f025": 0,
+                            "6ccb1761b1c3bde1": 0,
+                            "94c93d3fec3617f6": 0
+                        }
+                    },
+                    "time_b": {
+                        "jogadores": [
+                            "192a3b4c5d6e7f80",
+                            "e5f60718192a3b4c",
+                            "2a3b4c5d6e7f8091",
+                            "b2c3d4e5f6071819",
+                            "3b4c5d6e7f8091a2"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "192a3b4c5d6e7f80": 0,
+                            "e5f60718192a3b4c": 0,
+                            "2a3b4c5d6e7f8091": 1,
+                            "b2c3d4e5f6071819": 0,
+                            "3b4c5d6e7f8091a2": 0
+                        }
+                    },
+                    "placar_a": 0,
+                    "placar_b": 1,
+                    "vencedor": "b",
+                    "observacao": ""
+                },
+                {
+                    "id": "f7c6bd24e6310e5c",
+                    "time_a": {
+                        "jogadores": [
+                            "1f4cc5a57007adf5",
+                            "b3c4d5e6f708192a",
+                            "f60718192a3b4c5d",
+                            "0718192a3b4c5d6e",
+                            "3b4c5d6e7f8091a2"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "1f4cc5a57007adf5": 0,
+                            "b3c4d5e6f708192a": 0,
+                            "f60718192a3b4c5d": 1,
+                            "0718192a3b4c5d6e": 1,
+                            "3b4c5d6e7f8091a2": 0
+                        }
+                    },
+                    "time_b": {
+                        "jogadores": [
+                            "94c93d3fec3617f6",
+                            "b2c3d4e5f6071819",
+                            "192a3b4c5d6e7f80",
+                            "e5f60718192a3b4c",
+                            "2a3b4c5d6e7f8091"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "94c93d3fec3617f6": 1,
+                            "b2c3d4e5f6071819": 0,
+                            "192a3b4c5d6e7f80": 0,
+                            "e5f60718192a3b4c": 0,
+                            "2a3b4c5d6e7f8091": 0
+                        }
+                    },
+                    "placar_a": 2,
+                    "placar_b": 1,
+                    "vencedor": "a",
+                    "observacao": ""
+                },
+                {
+                    "id": "bce365a10f4bf249",
+                    "time_a": {
+                        "jogadores": [
+                            "a1b2c3d4e5f60718",
+                            "6e7f8091a2b3c4d5",
+                            "e5f60718192a3b4c",
+                            "18192a3b4c5d6e7f",
+                            "0718192a3b4c5d6e"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "a1b2c3d4e5f60718": 2,
+                            "6e7f8091a2b3c4d5": 1,
+                            "e5f60718192a3b4c": 0,
+                            "18192a3b4c5d6e7f": 0,
+                            "0718192a3b4c5d6e": 0
+                        }
+                    },
+                    "time_b": {
+                        "jogadores": [
+                            "1f4cc5a57007adf5",
+                            "b3c4d5e6f708192a",
+                            "f60718192a3b4c5d",
+                            "3b4c5d6e7f8091a2",
+                            "2a3b4c5d6e7f8091"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "1f4cc5a57007adf5": 0,
+                            "b3c4d5e6f708192a": 0,
+                            "f60718192a3b4c5d": 0,
+                            "3b4c5d6e7f8091a2": 0,
+                            "2a3b4c5d6e7f8091": 0
+                        }
+                    },
+                    "placar_a": 3,
+                    "placar_b": 0,
+                    "vencedor": "a",
+                    "observacao": ""
+                },
+                {
+                    "id": "fd4aa1380f9a5e65",
+                    "time_a": {
+                        "jogadores": [
+                            "7f8091a2b3c4d5e6",
+                            "d4e5f60718192a3b",
+                            "f60718192a3b4c5d",
+                            "6ccb1761b1c3bde1",
+                            "94c93d3fec3617f6"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "7f8091a2b3c4d5e6": 1,
+                            "d4e5f60718192a3b": 0,
+                            "f60718192a3b4c5d": 0,
+                            "6ccb1761b1c3bde1": 0,
+                            "94c93d3fec3617f6": 0
+                        }
+                    },
+                    "time_b": {
+                        "jogadores": [
+                            "a1b2c3d4e5f60718",
+                            "b3c4d5e6f708192a",
+                            "18192a3b4c5d6e7f",
+                            "0718192a3b4c5d6e",
+                            "6e7f8091a2b3c4d5"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "a1b2c3d4e5f60718": 0,
+                            "b3c4d5e6f708192a": 1,
+                            "18192a3b4c5d6e7f": 0,
+                            "0718192a3b4c5d6e": 0,
+                            "6e7f8091a2b3c4d5": 0
+                        }
+                    },
+                    "placar_a": 1,
+                    "placar_b": 1,
+                    "vencedor": "a",
+                    "observacao": ""
+                }
+            ]
+        },
+        {
+            "id": "97cc75b7711c018a",
+            "data": "2026-08-26",
+            "observacao": "",
+            "partidas": [
+                {
+                    "id": "6478cc42e2535d11",
+                    "time_a": {
+                        "jogadores": [
+                            "8091a2b3c4d5e6f7",
+                            "b25d1c0f187c9624",
+                            "f60718192a3b4c5d",
+                            "0ffb8131f607d489",
+                            "3b4c5d6e7f8091a2"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "8091a2b3c4d5e6f7": 0,
+                            "b25d1c0f187c9624": 0,
+                            "f60718192a3b4c5d": 0,
+                            "0ffb8131f607d489": 1,
+                            "3b4c5d6e7f8091a2": 0
+                        }
+                    },
+                    "time_b": {
+                        "jogadores": [
+                            "d4e5f60718192a3b",
+                            "b3c4d5e6f708192a",
+                            "c4d5e6f708192a3b",
+                            "a2b3c4d5e6f70819",
+                            "6e7f8091a2b3c4d5"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "d4e5f60718192a3b": 0,
+                            "b3c4d5e6f708192a": 0,
+                            "c4d5e6f708192a3b": 0,
+                            "a2b3c4d5e6f70819": 0,
+                            "6e7f8091a2b3c4d5": 0
+                        }
+                    },
+                    "placar_a": 1,
+                    "placar_b": 0,
+                    "vencedor": "a",
+                    "observacao": "Gol de falta no fim."
+                },
+                {
+                    "id": "6e92ac25afdd729f",
+                    "time_a": {
+                        "jogadores": [
+                            "1f4cc5a57007adf5",
+                            "e5f60718192a3b4c",
+                            "192a3b4c5d6e7f80",
+                            "18192a3b4c5d6e7f",
+                            "91a2b3c4d5e6f708"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "1f4cc5a57007adf5": 1,
+                            "e5f60718192a3b4c": 0,
+                            "192a3b4c5d6e7f80": 0,
+                            "18192a3b4c5d6e7f": 0,
+                            "91a2b3c4d5e6f708": 0
+                        }
+                    },
+                    "time_b": {
+                        "jogadores": [
+                            "8091a2b3c4d5e6f7",
+                            "b25d1c0f187c9624",
+                            "f60718192a3b4c5d",
+                            "0ffb8131f607d489",
+                            "3b4c5d6e7f8091a2"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "8091a2b3c4d5e6f7": 1,
+                            "b25d1c0f187c9624": 0,
+                            "f60718192a3b4c5d": 0,
+                            "0ffb8131f607d489": 0,
+                            "3b4c5d6e7f8091a2": 0
+                        }
+                    },
+                    "placar_a": 1,
+                    "placar_b": 1,
+                    "vencedor": "empate",
+                    "observacao": ""
+                },
+                {
+                    "id": "635de2268dc25a75",
+                    "time_a": {
+                        "jogadores": [
+                            "a1b2c3d4e5f60718",
+                            "5d6e7f8091a2b3c4",
+                            "d5e6f708192a3b4c",
+                            "2a3b4c5d6e7f8091",
+                            "11374c700ef65ded"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "a1b2c3d4e5f60718": 0,
+                            "5d6e7f8091a2b3c4": 0,
+                            "d5e6f708192a3b4c": 2,
+                            "2a3b4c5d6e7f8091": 0,
+                            "11374c700ef65ded": 0
+                        }
+                    },
+                    "time_b": {
+                        "jogadores": [
+                            "d4e5f60718192a3b",
+                            "b3c4d5e6f708192a",
+                            "c4d5e6f708192a3b",
+                            "a2b3c4d5e6f70819",
+                            "6e7f8091a2b3c4d5"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "d4e5f60718192a3b": 0,
+                            "b3c4d5e6f708192a": 0,
+                            "c4d5e6f708192a3b": 0,
+                            "a2b3c4d5e6f70819": 0,
+                            "6e7f8091a2b3c4d5": 0
+                        }
+                    },
+                    "placar_a": 2,
+                    "placar_b": 0,
+                    "vencedor": "a",
+                    "observacao": ""
+                },
+                {
+                    "id": "9ef051a5b8e4221a",
+                    "time_a": {
+                        "jogadores": [
+                            "a1b2c3d4e5f60718",
+                            "5d6e7f8091a2b3c4",
+                            "d5e6f708192a3b4c",
+                            "2a3b4c5d6e7f8091",
+                            "11374c700ef65ded"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "a1b2c3d4e5f60718": 0,
+                            "5d6e7f8091a2b3c4": 0,
+                            "d5e6f708192a3b4c": 0,
+                            "2a3b4c5d6e7f8091": 0,
+                            "11374c700ef65ded": 0
+                        }
+                    },
+                    "time_b": {
+                        "jogadores": [
+                            "8091a2b3c4d5e6f7",
+                            "b25d1c0f187c9624",
+                            "f60718192a3b4c5d",
+                            "0ffb8131f607d489",
+                            "3b4c5d6e7f8091a2"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "8091a2b3c4d5e6f7": 1,
+                            "b25d1c0f187c9624": 2,
+                            "f60718192a3b4c5d": 0,
+                            "0ffb8131f607d489": 0,
+                            "3b4c5d6e7f8091a2": 0
+                        }
+                    },
+                    "placar_a": 0,
+                    "placar_b": 3,
+                    "vencedor": "b",
+                    "observacao": ""
+                },
+                {
+                    "id": "8ccd4ef5d4cf1ba4",
+                    "time_a": {
+                        "jogadores": [
+                            "1f4cc5a57007adf5",
+                            "e5f60718192a3b4c",
+                            "192a3b4c5d6e7f80",
+                            "18192a3b4c5d6e7f",
+                            "91a2b3c4d5e6f708"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "1f4cc5a57007adf5": 0,
+                            "e5f60718192a3b4c": 1,
+                            "192a3b4c5d6e7f80": 1,
+                            "18192a3b4c5d6e7f": 1,
+                            "91a2b3c4d5e6f708": 0
+                        }
+                    },
+                    "time_b": {
+                        "jogadores": [
+                            "8091a2b3c4d5e6f7",
+                            "b25d1c0f187c9624",
+                            "f60718192a3b4c5d",
+                            "0ffb8131f607d489",
+                            "3b4c5d6e7f8091a2"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "8091a2b3c4d5e6f7": 0,
+                            "b25d1c0f187c9624": 1,
+                            "f60718192a3b4c5d": 0,
+                            "0ffb8131f607d489": 0,
+                            "3b4c5d6e7f8091a2": 0
+                        }
+                    },
+                    "placar_a": 3,
+                    "placar_b": 1,
+                    "vencedor": "a",
+                    "observacao": ""
+                },
+                {
+                    "id": "6bf1e96d640de1ab",
+                    "time_a": {
+                        "jogadores": [
+                            "d4e5f60718192a3b",
+                            "b3c4d5e6f708192a",
+                            "c4d5e6f708192a3b",
+                            "a2b3c4d5e6f70819",
+                            "6e7f8091a2b3c4d5"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "d4e5f60718192a3b": 0,
+                            "b3c4d5e6f708192a": 0,
+                            "c4d5e6f708192a3b": 0,
+                            "a2b3c4d5e6f70819": 0,
+                            "6e7f8091a2b3c4d5": 0
+                        }
+                    },
+                    "time_b": {
+                        "jogadores": [
+                            "1f4cc5a57007adf5",
+                            "e5f60718192a3b4c",
+                            "192a3b4c5d6e7f80",
+                            "18192a3b4c5d6e7f",
+                            "91a2b3c4d5e6f708"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "1f4cc5a57007adf5": 0,
+                            "e5f60718192a3b4c": 0,
+                            "192a3b4c5d6e7f80": 0,
+                            "18192a3b4c5d6e7f": 0,
+                            "91a2b3c4d5e6f708": 0
+                        }
+                    },
+                    "placar_a": 0,
+                    "placar_b": 0,
+                    "vencedor": "b",
+                    "observacao": ""
+                },
+                {
+                    "id": "14ade8fc6580f74a",
+                    "time_a": {
+                        "jogadores": [
+                            "a1b2c3d4e5f60718",
+                            "5d6e7f8091a2b3c4",
+                            "d5e6f708192a3b4c",
+                            "2a3b4c5d6e7f8091",
+                            "11374c700ef65ded"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "a1b2c3d4e5f60718": 0,
+                            "5d6e7f8091a2b3c4": 0,
+                            "d5e6f708192a3b4c": 0,
+                            "2a3b4c5d6e7f8091": 1,
+                            "11374c700ef65ded": 0
+                        }
+                    },
+                    "time_b": {
+                        "jogadores": [
+                            "8091a2b3c4d5e6f7",
+                            "b25d1c0f187c9624",
+                            "f60718192a3b4c5d",
+                            "0ffb8131f607d489",
+                            "3b4c5d6e7f8091a2"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "8091a2b3c4d5e6f7": 0,
+                            "b25d1c0f187c9624": 0,
+                            "f60718192a3b4c5d": 0,
+                            "0ffb8131f607d489": 2,
+                            "3b4c5d6e7f8091a2": 0
+                        }
+                    },
+                    "placar_a": 1,
+                    "placar_b": 2,
+                    "vencedor": "b",
+                    "observacao": ""
+                },
+                {
+                    "id": "4a92e128fca9e59d",
+                    "time_a": {
+                        "jogadores": [
+                            "1f4cc5a57007adf5",
+                            "e5f60718192a3b4c",
+                            "192a3b4c5d6e7f80",
+                            "18192a3b4c5d6e7f",
+                            "91a2b3c4d5e6f708"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "1f4cc5a57007adf5": 0,
+                            "e5f60718192a3b4c": 1,
+                            "192a3b4c5d6e7f80": 0,
+                            "18192a3b4c5d6e7f": 0,
+                            "91a2b3c4d5e6f708": 0
+                        }
+                    },
+                    "time_b": {
+                        "jogadores": [
+                            "8091a2b3c4d5e6f7",
+                            "b25d1c0f187c9624",
+                            "f60718192a3b4c5d",
+                            "0ffb8131f607d489",
+                            "3b4c5d6e7f8091a2"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "8091a2b3c4d5e6f7": 0,
+                            "b25d1c0f187c9624": 1,
+                            "f60718192a3b4c5d": 0,
+                            "0ffb8131f607d489": 0,
+                            "3b4c5d6e7f8091a2": 0
+                        }
+                    },
+                    "placar_a": 1,
+                    "placar_b": 1,
+                    "vencedor": "empate",
+                    "observacao": ""
+                },
+                {
+                    "id": "f98e8785669ab247",
+                    "time_a": {
+                        "jogadores": [
+                            "d4e5f60718192a3b",
+                            "b3c4d5e6f708192a",
+                            "c4d5e6f708192a3b",
+                            "a2b3c4d5e6f70819",
+                            "6e7f8091a2b3c4d5"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "d4e5f60718192a3b": 0,
+                            "b3c4d5e6f708192a": 0,
+                            "c4d5e6f708192a3b": 0,
+                            "a2b3c4d5e6f70819": 0,
+                            "6e7f8091a2b3c4d5": 0
+                        }
+                    },
+                    "time_b": {
+                        "jogadores": [
+                            "5d6e7f8091a2b3c4",
+                            "d5e6f708192a3b4c",
+                            "a1b2c3d4e5f60718",
+                            "2a3b4c5d6e7f8091",
+                            "11374c700ef65ded"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "5d6e7f8091a2b3c4": 0,
+                            "d5e6f708192a3b4c": 0,
+                            "a1b2c3d4e5f60718": 2,
+                            "2a3b4c5d6e7f8091": 0,
+                            "11374c700ef65ded": 1
+                        }
+                    },
+                    "placar_a": 0,
+                    "placar_b": 3,
+                    "vencedor": "b",
+                    "observacao": ""
+                },
+                {
+                    "id": "b5e3787b29bb5625",
+                    "time_a": {
+                        "jogadores": [
+                            "5d6e7f8091a2b3c4",
+                            "a1b2c3d4e5f60718",
+                            "2a3b4c5d6e7f8091",
+                            "d5e6f708192a3b4c",
+                            "11374c700ef65ded"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "5d6e7f8091a2b3c4": 0,
+                            "a1b2c3d4e5f60718": 0,
+                            "2a3b4c5d6e7f8091": 0,
+                            "d5e6f708192a3b4c": 0,
+                            "11374c700ef65ded": 1
+                        }
+                    },
+                    "time_b": {
+                        "jogadores": [
+                            "f1cbed003bb04a74",
+                            "a2d672d304a1fbf9",
+                            "6c0b9d6233e5db05",
+                            "f920995465f65cc4",
+                            "e854a9b102b1cce4"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "f1cbed003bb04a74": 0,
+                            "a2d672d304a1fbf9": 0,
+                            "6c0b9d6233e5db05": 0,
+                            "f920995465f65cc4": 0,
+                            "e854a9b102b1cce4": 0
+                        }
+                    },
+                    "placar_a": 1,
+                    "placar_b": 0,
+                    "vencedor": "a",
+                    "observacao": ""
+                }
+            ]
+        },
+        {
+            "id": "3f83e5c7c342ea1b",
+            "data": "2026-08-19",
+            "observacao": "",
+            "partidas": [
+                {
+                    "id": "b8a0581131f4af15",
+                    "time_a": {
+                        "jogadores": [
+                            "11374c700ef65ded",
+                            "a2b3c4d5e6f70819",
+                            "18192a3b4c5d6e7f",
+                            "e5f60718192a3b4c",
+                            "b2c3d4e5f6071819"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "11374c700ef65ded": 1,
+                            "a2b3c4d5e6f70819": 1,
+                            "18192a3b4c5d6e7f": 0,
+                            "e5f60718192a3b4c": 0,
+                            "b2c3d4e5f6071819": 0
+                        }
+                    },
+                    "time_b": {
+                        "jogadores": [
+                            "e47d61a2a44b9597",
+                            "2a3b4c5d6e7f8091",
+                            "f60718192a3b4c5d",
+                            "7f8091a2b3c4d5e6",
+                            "8091a2b3c4d5e6f7"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "e47d61a2a44b9597": 0,
+                            "2a3b4c5d6e7f8091": 0,
+                            "f60718192a3b4c5d": 0,
+                            "7f8091a2b3c4d5e6": 0,
+                            "8091a2b3c4d5e6f7": 0
+                        }
+                    },
+                    "placar_a": 2,
+                    "placar_b": 0,
+                    "vencedor": "a",
+                    "observacao": ""
+                },
+                {
+                    "id": "e8eab667d7b89c7f",
+                    "time_a": {
+                        "jogadores": [
+                            "3b4c5d6e7f8091a2",
+                            "6e7f8091a2b3c4d5",
+                            "c3d4e5f60718192a",
+                            "b25d1c0f187c9624",
+                            "d4e5f60718192a3b"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "3b4c5d6e7f8091a2": 0,
+                            "6e7f8091a2b3c4d5": 0,
+                            "c3d4e5f60718192a": 0,
+                            "b25d1c0f187c9624": 0,
+                            "d4e5f60718192a3b": 0
+                        }
+                    },
+                    "time_b": {
+                        "jogadores": [
+                            "11374c700ef65ded",
+                            "a2b3c4d5e6f70819",
+                            "e47d61a2a44b9597",
+                            "e5f60718192a3b4c",
+                            "b2c3d4e5f6071819"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "11374c700ef65ded": 0,
+                            "a2b3c4d5e6f70819": 0,
+                            "e47d61a2a44b9597": 0,
+                            "e5f60718192a3b4c": 0,
+                            "b2c3d4e5f6071819": 1
+                        }
+                    },
+                    "placar_a": 0,
+                    "placar_b": 1,
+                    "vencedor": "b",
+                    "observacao": ""
+                },
+                {
+                    "id": "30dc72985adbc0ee",
+                    "time_a": {
+                        "jogadores": [
+                            "8091a2b3c4d5e6f7",
+                            "192a3b4c5d6e7f80",
+                            "c4d5e6f708192a3b",
+                            "b3c4d5e6f708192a",
+                            "91a2b3c4d5e6f708"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "8091a2b3c4d5e6f7": 0,
+                            "192a3b4c5d6e7f80": 0,
+                            "c4d5e6f708192a3b": 0,
+                            "b3c4d5e6f708192a": 0,
+                            "91a2b3c4d5e6f708": 0
+                        }
+                    },
+                    "time_b": {
+                        "jogadores": [
+                            "11374c700ef65ded",
+                            "a2b3c4d5e6f70819",
+                            "18192a3b4c5d6e7f",
+                            "e5f60718192a3b4c",
+                            "b2c3d4e5f6071819"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "11374c700ef65ded": 0,
+                            "a2b3c4d5e6f70819": 0,
+                            "18192a3b4c5d6e7f": 0,
+                            "e5f60718192a3b4c": 0,
+                            "b2c3d4e5f6071819": 0
+                        }
+                    },
+                    "placar_a": 0,
+                    "placar_b": 0,
+                    "vencedor": "empate",
+                    "observacao": ""
+                },
+                {
+                    "id": "8f24647ef77978f9",
+                    "time_a": {
+                        "jogadores": [
+                            "b2c3d4e5f6071819",
+                            "7f8091a2b3c4d5e6",
+                            "f60718192a3b4c5d",
+                            "2a3b4c5d6e7f8091",
+                            "e47d61a2a44b9597"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "b2c3d4e5f6071819": 0,
+                            "7f8091a2b3c4d5e6": 0,
+                            "f60718192a3b4c5d": 0,
+                            "2a3b4c5d6e7f8091": 0,
+                            "e47d61a2a44b9597": 0
+                        }
+                    },
+                    "time_b": {
+                        "jogadores": [
+                            "d4e5f60718192a3b",
+                            "b25d1c0f187c9624",
+                            "c3d4e5f60718192a",
+                            "6e7f8091a2b3c4d5",
+                            "3b4c5d6e7f8091a2"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "d4e5f60718192a3b": 0,
+                            "b25d1c0f187c9624": 0,
+                            "c3d4e5f60718192a": 1,
+                            "6e7f8091a2b3c4d5": 0,
+                            "3b4c5d6e7f8091a2": 0
+                        }
+                    },
+                    "placar_a": 0,
+                    "placar_b": 1,
+                    "vencedor": "b",
+                    "observacao": ""
+                },
+                {
+                    "id": "88262b076ccfff5a",
+                    "time_a": {
+                        "jogadores": [
+                            "8091a2b3c4d5e6f7",
+                            "192a3b4c5d6e7f80",
+                            "b3c4d5e6f708192a",
+                            "c4d5e6f708192a3b",
+                            "91a2b3c4d5e6f708"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "8091a2b3c4d5e6f7": 0,
+                            "192a3b4c5d6e7f80": 0,
+                            "b3c4d5e6f708192a": 0,
+                            "c4d5e6f708192a3b": 3,
+                            "91a2b3c4d5e6f708": 0
+                        }
+                    },
+                    "time_b": {
+                        "jogadores": [
+                            "3b4c5d6e7f8091a2",
+                            "b25d1c0f187c9624",
+                            "d4e5f60718192a3b",
+                            "6e7f8091a2b3c4d5",
+                            "c3d4e5f60718192a"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "3b4c5d6e7f8091a2": 0,
+                            "b25d1c0f187c9624": 0,
+                            "d4e5f60718192a3b": 0,
+                            "6e7f8091a2b3c4d5": 0,
+                            "c3d4e5f60718192a": 0
+                        }
+                    },
+                    "placar_a": 3,
+                    "placar_b": 0,
+                    "vencedor": "a",
+                    "observacao": ""
+                },
+                {
+                    "id": "b412d22ac455d73f",
+                    "time_a": {
+                        "jogadores": [
+                            "8091a2b3c4d5e6f7",
+                            "192a3b4c5d6e7f80",
+                            "b3c4d5e6f708192a",
+                            "91a2b3c4d5e6f708",
+                            "c4d5e6f708192a3b"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "8091a2b3c4d5e6f7": 0,
+                            "192a3b4c5d6e7f80": 0,
+                            "b3c4d5e6f708192a": 0,
+                            "91a2b3c4d5e6f708": 0,
+                            "c4d5e6f708192a3b": 0
+                        }
+                    },
+                    "time_b": {
+                        "jogadores": [
+                            "b2c3d4e5f6071819",
+                            "e5f60718192a3b4c",
+                            "11374c700ef65ded",
+                            "18192a3b4c5d6e7f",
+                            "a2b3c4d5e6f70819"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "b2c3d4e5f6071819": 0,
+                            "e5f60718192a3b4c": 0,
+                            "11374c700ef65ded": 0,
+                            "18192a3b4c5d6e7f": 0,
+                            "a2b3c4d5e6f70819": 0
+                        }
+                    },
+                    "placar_a": 0,
+                    "placar_b": 0,
+                    "vencedor": "b",
+                    "observacao": ""
+                },
+                {
+                    "id": "ca10abdf19bae927",
+                    "time_a": {
+                        "jogadores": [
+                            "3b4c5d6e7f8091a2",
+                            "6e7f8091a2b3c4d5",
+                            "c3d4e5f60718192a",
+                            "b25d1c0f187c9624",
+                            "d4e5f60718192a3b"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "3b4c5d6e7f8091a2": 0,
+                            "6e7f8091a2b3c4d5": 0,
+                            "c3d4e5f60718192a": 0,
+                            "b25d1c0f187c9624": 1,
+                            "d4e5f60718192a3b": 1
+                        }
+                    },
+                    "time_b": {
+                        "jogadores": [
+                            "e47d61a2a44b9597",
+                            "2a3b4c5d6e7f8091",
+                            "f60718192a3b4c5d",
+                            "7f8091a2b3c4d5e6",
+                            "8091a2b3c4d5e6f7"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "e47d61a2a44b9597": 0,
+                            "2a3b4c5d6e7f8091": 0,
+                            "f60718192a3b4c5d": 0,
+                            "7f8091a2b3c4d5e6": 0,
+                            "8091a2b3c4d5e6f7": 2
+                        }
+                    },
+                    "placar_a": 2,
+                    "placar_b": 2,
+                    "vencedor": "b",
+                    "observacao": ""
+                },
+                {
+                    "id": "e17a3beb9a2fca21",
+                    "time_a": {
+                        "jogadores": [
+                            "d4e5f60718192a3b",
+                            "7f8091a2b3c4d5e6",
+                            "f60718192a3b4c5d",
+                            "2a3b4c5d6e7f8091",
+                            "91a2b3c4d5e6f708"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "d4e5f60718192a3b": 1,
+                            "7f8091a2b3c4d5e6": 0,
+                            "f60718192a3b4c5d": 1,
+                            "2a3b4c5d6e7f8091": 0,
+                            "91a2b3c4d5e6f708": 0
+                        }
+                    },
+                    "time_b": {
+                        "jogadores": [
+                            "b2c3d4e5f6071819",
+                            "e5f60718192a3b4c",
+                            "11374c700ef65ded",
+                            "18192a3b4c5d6e7f",
+                            "a2b3c4d5e6f70819"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "b2c3d4e5f6071819": 0,
+                            "e5f60718192a3b4c": 0,
+                            "11374c700ef65ded": 0,
+                            "18192a3b4c5d6e7f": 1,
+                            "a2b3c4d5e6f70819": 0
+                        }
+                    },
+                    "placar_a": 2,
+                    "placar_b": 1,
+                    "vencedor": "a",
+                    "observacao": ""
+                },
+                {
+                    "id": "c37a1550de0c82b7",
+                    "time_a": {
+                        "jogadores": [
+                            "8091a2b3c4d5e6f7",
+                            "192a3b4c5d6e7f80",
+                            "b3c4d5e6f708192a",
+                            "11374c700ef65ded",
+                            "e5f60718192a3b4c"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "8091a2b3c4d5e6f7": 0,
+                            "192a3b4c5d6e7f80": 1,
+                            "b3c4d5e6f708192a": 0,
+                            "11374c700ef65ded": 0,
+                            "e5f60718192a3b4c": 0
+                        }
+                    },
+                    "time_b": {
+                        "jogadores": [
+                            "d4e5f60718192a3b",
+                            "7f8091a2b3c4d5e6",
+                            "f60718192a3b4c5d",
+                            "2a3b4c5d6e7f8091",
+                            "91a2b3c4d5e6f708"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "d4e5f60718192a3b": 0,
+                            "7f8091a2b3c4d5e6": 0,
+                            "f60718192a3b4c5d": 0,
+                            "2a3b4c5d6e7f8091": 0,
+                            "91a2b3c4d5e6f708": 0
+                        }
+                    },
+                    "placar_a": 1,
+                    "placar_b": 0,
+                    "vencedor": "a",
+                    "observacao": ""
+                }
+            ]
+        },
+        {
+            "id": "8b17225026f37f7c",
+            "data": "2026-08-12",
+            "observacao": "",
+            "partidas": [
+                {
+                    "id": "4480de8f9adc7c78",
+                    "time_a": {
+                        "jogadores": [
+                            "a1b2c3d4e5f60718",
+                            "e5f60718192a3b4c",
+                            "c3d4e5f60718192a",
+                            "f60718192a3b4c5d",
+                            "a2b3c4d5e6f70819"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "a1b2c3d4e5f60718": 0,
+                            "e5f60718192a3b4c": 0,
+                            "c3d4e5f60718192a": 0,
+                            "f60718192a3b4c5d": 1,
+                            "a2b3c4d5e6f70819": 0
+                        }
+                    },
+                    "time_b": {
+                        "jogadores": [
+                            "7fd808a7323e1a10",
+                            "1f4cc5a57007adf5",
+                            "b3c4d5e6f708192a",
+                            "04bc008bd585f025",
+                            "6e7f8091a2b3c4d5"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "7fd808a7323e1a10": 1,
+                            "1f4cc5a57007adf5": 0,
+                            "b3c4d5e6f708192a": 2,
+                            "04bc008bd585f025": 0,
+                            "6e7f8091a2b3c4d5": 0
+                        }
+                    },
+                    "placar_a": 1,
+                    "placar_b": 3,
+                    "vencedor": "b",
+                    "observacao": ""
+                },
+                {
+                    "id": "404aee7f3465ad56",
+                    "time_a": {
+                        "jogadores": [
+                            "1f4cc5a57007adf5",
+                            "d4e5f60718192a3b",
+                            "192a3b4c5d6e7f80",
+                            "2a3b4c5d6e7f8091",
+                            "a2b3c4d5e6f70819"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "1f4cc5a57007adf5": 0,
+                            "d4e5f60718192a3b": 0,
+                            "192a3b4c5d6e7f80": 0,
+                            "2a3b4c5d6e7f8091": 0,
+                            "a2b3c4d5e6f70819": 0
+                        }
+                    },
+                    "time_b": {
+                        "jogadores": [
+                            "7fd808a7323e1a10",
+                            "e5f60718192a3b4c",
+                            "b3c4d5e6f708192a",
+                            "04bc008bd585f025",
+                            "6e7f8091a2b3c4d5"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "7fd808a7323e1a10": 0,
+                            "e5f60718192a3b4c": 2,
+                            "b3c4d5e6f708192a": 1,
+                            "04bc008bd585f025": 0,
+                            "6e7f8091a2b3c4d5": 0
+                        }
+                    },
+                    "placar_a": 0,
+                    "placar_b": 3,
+                    "vencedor": "b",
+                    "observacao": ""
+                },
+                {
+                    "id": "b31a781a83917b21",
+                    "time_a": {
+                        "jogadores": [
+                            "7fd808a7323e1a10",
+                            "b3c4d5e6f708192a",
+                            "04bc008bd585f025",
+                            "6e7f8091a2b3c4d5",
+                            "c3d4e5f60718192a"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "7fd808a7323e1a10": 0,
+                            "b3c4d5e6f708192a": 0,
+                            "04bc008bd585f025": 0,
+                            "6e7f8091a2b3c4d5": 0,
+                            "c3d4e5f60718192a": 1
+                        }
+                    },
+                    "time_b": {
+                        "jogadores": [
+                            "91a2b3c4d5e6f708",
+                            "18192a3b4c5d6e7f",
+                            "f2807aedb3f01113",
+                            "d5e6f708192a3b4c",
+                            "8091a2b3c4d5e6f7"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "91a2b3c4d5e6f708": 0,
+                            "18192a3b4c5d6e7f": 0,
+                            "f2807aedb3f01113": 0,
+                            "d5e6f708192a3b4c": 0,
+                            "8091a2b3c4d5e6f7": 1
+                        }
+                    },
+                    "placar_a": 1,
+                    "placar_b": 1,
+                    "vencedor": "a",
+                    "observacao": ""
+                },
+                {
+                    "id": "c6335c8d2c15896d",
+                    "time_a": {
+                        "jogadores": [
+                            "1f4cc5a57007adf5",
+                            "d4e5f60718192a3b",
+                            "192a3b4c5d6e7f80",
+                            "2a3b4c5d6e7f8091",
+                            "a2b3c4d5e6f70819"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "1f4cc5a57007adf5": 1,
+                            "d4e5f60718192a3b": 0,
+                            "192a3b4c5d6e7f80": 0,
+                            "2a3b4c5d6e7f8091": 0,
+                            "a2b3c4d5e6f70819": 0
+                        }
+                    },
+                    "time_b": {
+                        "jogadores": [
+                            "f60718192a3b4c5d",
+                            "a1b2c3d4e5f60718",
+                            "c3d4e5f60718192a",
+                            "3b4c5d6e7f8091a2",
+                            "e5f60718192a3b4c"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "f60718192a3b4c5d": 1,
+                            "a1b2c3d4e5f60718": 0,
+                            "c3d4e5f60718192a": 0,
+                            "3b4c5d6e7f8091a2": 0,
+                            "e5f60718192a3b4c": 0
+                        }
+                    },
+                    "placar_a": 1,
+                    "placar_b": 1,
+                    "vencedor": "b",
+                    "observacao": ""
+                },
+                {
+                    "id": "e9dedfb2d0bb2194",
+                    "time_a": {
+                        "jogadores": [
+                            "7fd808a7323e1a10",
+                            "d4e5f60718192a3b",
+                            "b3c4d5e6f708192a",
+                            "6e7f8091a2b3c4d5",
+                            "04bc008bd585f025"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "7fd808a7323e1a10": 0,
+                            "d4e5f60718192a3b": 0,
+                            "b3c4d5e6f708192a": 0,
+                            "6e7f8091a2b3c4d5": 1,
+                            "04bc008bd585f025": 0
+                        }
+                    },
+                    "time_b": {
+                        "jogadores": [
+                            "91a2b3c4d5e6f708",
+                            "18192a3b4c5d6e7f",
+                            "f2807aedb3f01113",
+                            "d5e6f708192a3b4c",
+                            "8091a2b3c4d5e6f7"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "91a2b3c4d5e6f708": 0,
+                            "18192a3b4c5d6e7f": 0,
+                            "f2807aedb3f01113": 0,
+                            "d5e6f708192a3b4c": 1,
+                            "8091a2b3c4d5e6f7": 1
+                        }
+                    },
+                    "placar_a": 1,
+                    "placar_b": 2,
+                    "vencedor": "b",
+                    "observacao": ""
+                },
+                {
+                    "id": "2203fe84aa067df7",
+                    "time_a": {
+                        "jogadores": [
+                            "c3d4e5f60718192a",
+                            "f60718192a3b4c5d",
+                            "a1b2c3d4e5f60718",
+                            "e5f60718192a3b4c",
+                            "3b4c5d6e7f8091a2"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "c3d4e5f60718192a": 1,
+                            "f60718192a3b4c5d": 0,
+                            "a1b2c3d4e5f60718": 0,
+                            "e5f60718192a3b4c": 0,
+                            "3b4c5d6e7f8091a2": 0
+                        }
+                    },
+                    "time_b": {
+                        "jogadores": [
+                            "91a2b3c4d5e6f708",
+                            "18192a3b4c5d6e7f",
+                            "f2807aedb3f01113",
+                            "d5e6f708192a3b4c",
+                            "8091a2b3c4d5e6f7"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "91a2b3c4d5e6f708": 0,
+                            "18192a3b4c5d6e7f": 0,
+                            "f2807aedb3f01113": 0,
+                            "d5e6f708192a3b4c": 0,
+                            "8091a2b3c4d5e6f7": 1
+                        }
+                    },
+                    "placar_a": 1,
+                    "placar_b": 1,
+                    "vencedor": "a",
+                    "observacao": ""
+                },
+                {
+                    "id": "0c28c7f287b65560",
+                    "time_a": {
+                        "jogadores": [
+                            "a2b3c4d5e6f70819",
+                            "2a3b4c5d6e7f8091",
+                            "192a3b4c5d6e7f80",
+                            "d4e5f60718192a3b",
+                            "1f4cc5a57007adf5"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "a2b3c4d5e6f70819": 1,
+                            "2a3b4c5d6e7f8091": 0,
+                            "192a3b4c5d6e7f80": 1,
+                            "d4e5f60718192a3b": 0,
+                            "1f4cc5a57007adf5": 0
+                        }
+                    },
+                    "time_b": {
+                        "jogadores": [
+                            "7fd808a7323e1a10",
+                            "f60718192a3b4c5d",
+                            "04bc008bd585f025",
+                            "b3c4d5e6f708192a",
+                            "6e7f8091a2b3c4d5"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "7fd808a7323e1a10": 0,
+                            "f60718192a3b4c5d": 0,
+                            "04bc008bd585f025": 1,
+                            "b3c4d5e6f708192a": 0,
+                            "6e7f8091a2b3c4d5": 0
+                        }
+                    },
+                    "placar_a": 2,
+                    "placar_b": 1,
+                    "vencedor": "a",
+                    "observacao": ""
+                },
+                {
+                    "id": "e02ae7fe9cf682ea",
+                    "time_a": {
+                        "jogadores": [
+                            "c3d4e5f60718192a",
+                            "f60718192a3b4c5d",
+                            "a1b2c3d4e5f60718",
+                            "e5f60718192a3b4c",
+                            "3b4c5d6e7f8091a2"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "c3d4e5f60718192a": 0,
+                            "f60718192a3b4c5d": 0,
+                            "a1b2c3d4e5f60718": 0,
+                            "e5f60718192a3b4c": 0,
+                            "3b4c5d6e7f8091a2": 0
+                        }
+                    },
+                    "time_b": {
+                        "jogadores": [
+                            "a2b3c4d5e6f70819",
+                            "2a3b4c5d6e7f8091",
+                            "192a3b4c5d6e7f80",
+                            "d4e5f60718192a3b",
+                            "1f4cc5a57007adf5"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "a2b3c4d5e6f70819": 2,
+                            "2a3b4c5d6e7f8091": 0,
+                            "192a3b4c5d6e7f80": 0,
+                            "d4e5f60718192a3b": 0,
+                            "1f4cc5a57007adf5": 0
+                        }
+                    },
+                    "placar_a": 0,
+                    "placar_b": 2,
+                    "vencedor": "b",
+                    "observacao": ""
+                }
+            ]
+        },
+        {
+            "id": "b8e6cfcc03b531f0",
+            "data": "2026-07-22",
+            "observacao": "",
+            "partidas": [
+                {
+                    "id": "8f1e96ee235e1aab",
+                    "time_a": {
+                        "jogadores": [
+                            "b2c3d4e5f6071819",
+                            "e5f60718192a3b4c",
+                            "b3c4d5e6f708192a",
+                            "a2b3c4d5e6f70819",
+                            "91a2b3c4d5e6f708"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "b2c3d4e5f6071819": 0,
+                            "e5f60718192a3b4c": 1,
+                            "b3c4d5e6f708192a": 1,
+                            "a2b3c4d5e6f70819": 0,
+                            "91a2b3c4d5e6f708": 0
+                        }
+                    },
+                    "time_b": {
+                        "jogadores": [
+                            "a1b2c3d4e5f60718",
+                            "5d6e7f8091a2b3c4",
+                            "f60718192a3b4c5d",
+                            "559eb9e38b38c364",
+                            "3b4c5d6e7f8091a2"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "a1b2c3d4e5f60718": 0,
+                            "5d6e7f8091a2b3c4": 0,
+                            "f60718192a3b4c5d": 1,
+                            "559eb9e38b38c364": 1,
+                            "3b4c5d6e7f8091a2": 0
+                        }
+                    },
+                    "placar_a": 2,
+                    "placar_b": 2,
+                    "vencedor": "a",
+                    "observacao": ""
+                },
+                {
+                    "id": "0805e775227a0aac",
+                    "time_a": {
+                        "jogadores": [
+                            "e5f60718192a3b4c",
+                            "b2c3d4e5f6071819",
+                            "b3c4d5e6f708192a",
+                            "a2b3c4d5e6f70819",
+                            "91a2b3c4d5e6f708"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "e5f60718192a3b4c": 1,
+                            "b2c3d4e5f6071819": 0,
+                            "b3c4d5e6f708192a": 0,
+                            "a2b3c4d5e6f70819": 0,
+                            "91a2b3c4d5e6f708": 0
+                        }
+                    },
+                    "time_b": {
+                        "jogadores": [
+                            "d4e5f60718192a3b",
+                            "1f4cc5a57007adf5",
+                            "192a3b4c5d6e7f80",
+                            "a1b2c3d4e5f60718",
+                            "18192a3b4c5d6e7f"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "d4e5f60718192a3b": 0,
+                            "1f4cc5a57007adf5": 1,
+                            "192a3b4c5d6e7f80": 0,
+                            "a1b2c3d4e5f60718": 1,
+                            "18192a3b4c5d6e7f": 0
+                        }
+                    },
+                    "placar_a": 1,
+                    "placar_b": 2,
+                    "vencedor": "b",
+                    "observacao": ""
+                },
+                {
+                    "id": "18435c1934bdae9d",
+                    "time_a": {
+                        "jogadores": [
+                            "04bc008bd585f025",
+                            "f60718192a3b4c5d",
+                            "5d6e7f8091a2b3c4",
+                            "3b4c5d6e7f8091a2",
+                            "a1b2c3d4e5f60718"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "04bc008bd585f025": 0,
+                            "f60718192a3b4c5d": 0,
+                            "5d6e7f8091a2b3c4": 0,
+                            "3b4c5d6e7f8091a2": 0,
+                            "a1b2c3d4e5f60718": 0
+                        }
+                    },
+                    "time_b": {
+                        "jogadores": [
+                            "d4e5f60718192a3b",
+                            "1f4cc5a57007adf5",
+                            "192a3b4c5d6e7f80",
+                            "18192a3b4c5d6e7f",
+                            "94412480444f4ac9"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "d4e5f60718192a3b": 0,
+                            "1f4cc5a57007adf5": 0,
+                            "192a3b4c5d6e7f80": 0,
+                            "18192a3b4c5d6e7f": 0,
+                            "94412480444f4ac9": 2
+                        }
+                    },
+                    "placar_a": 0,
+                    "placar_b": 2,
+                    "vencedor": "b",
+                    "observacao": ""
+                },
+                {
+                    "id": "311b3c19518b5a95",
+                    "time_a": {
+                        "jogadores": [
+                            "d4e5f60718192a3b",
+                            "1f4cc5a57007adf5",
+                            "192a3b4c5d6e7f80",
+                            "94412480444f4ac9",
+                            "18192a3b4c5d6e7f"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "d4e5f60718192a3b": 0,
+                            "1f4cc5a57007adf5": 1,
+                            "192a3b4c5d6e7f80": 0,
+                            "94412480444f4ac9": 0,
+                            "18192a3b4c5d6e7f": 0
+                        }
+                    },
+                    "time_b": {
+                        "jogadores": [
+                            "b2c3d4e5f6071819",
+                            "559eb9e38b38c364",
+                            "e5f60718192a3b4c",
+                            "b3c4d5e6f708192a",
+                            "a2b3c4d5e6f70819"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "b2c3d4e5f6071819": 0,
+                            "559eb9e38b38c364": 1,
+                            "e5f60718192a3b4c": 0,
+                            "b3c4d5e6f708192a": 0,
+                            "a2b3c4d5e6f70819": 0
+                        }
+                    },
+                    "placar_a": 1,
+                    "placar_b": 1,
+                    "vencedor": "empate",
+                    "observacao": ""
+                },
+                {
+                    "id": "0bded18abd056c84",
+                    "time_a": {
+                        "jogadores": [
+                            "91a2b3c4d5e6f708",
+                            "f60718192a3b4c5d",
+                            "5d6e7f8091a2b3c4",
+                            "04bc008bd585f025",
+                            "3b4c5d6e7f8091a2"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "91a2b3c4d5e6f708": 0,
+                            "f60718192a3b4c5d": 0,
+                            "5d6e7f8091a2b3c4": 0,
+                            "04bc008bd585f025": 1,
+                            "3b4c5d6e7f8091a2": 0
+                        }
+                    },
+                    "time_b": {
+                        "jogadores": [
+                            "b2c3d4e5f6071819",
+                            "559eb9e38b38c364",
+                            "e5f60718192a3b4c",
+                            "b3c4d5e6f708192a",
+                            "a2b3c4d5e6f70819"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "b2c3d4e5f6071819": 0,
+                            "559eb9e38b38c364": 0,
+                            "e5f60718192a3b4c": 0,
+                            "b3c4d5e6f708192a": 0,
+                            "a2b3c4d5e6f70819": 0
+                        }
+                    },
+                    "placar_a": 1,
+                    "placar_b": 0,
+                    "vencedor": "a",
+                    "observacao": ""
+                },
+                {
+                    "id": "a13c8222847ef57d",
+                    "time_a": {
+                        "jogadores": [
+                            "a1b2c3d4e5f60718",
+                            "1f4cc5a57007adf5",
+                            "192a3b4c5d6e7f80",
+                            "18192a3b4c5d6e7f",
+                            "f1cbed003bb04a74"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "a1b2c3d4e5f60718": 0,
+                            "1f4cc5a57007adf5": 1,
+                            "192a3b4c5d6e7f80": 0,
+                            "18192a3b4c5d6e7f": 1,
+                            "f1cbed003bb04a74": 0
+                        }
+                    },
+                    "time_b": {
+                        "jogadores": [
+                            "5d6e7f8091a2b3c4",
+                            "04bc008bd585f025",
+                            "f60718192a3b4c5d",
+                            "3b4c5d6e7f8091a2",
+                            "91a2b3c4d5e6f708"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "5d6e7f8091a2b3c4": 0,
+                            "04bc008bd585f025": 0,
+                            "f60718192a3b4c5d": 0,
+                            "3b4c5d6e7f8091a2": 0,
+                            "91a2b3c4d5e6f708": 0
+                        }
+                    },
+                    "placar_a": 2,
+                    "placar_b": 0,
+                    "vencedor": "a",
+                    "observacao": ""
+                },
+                {
+                    "id": "743eb2d902058821",
+                    "time_a": {
+                        "jogadores": [
+                            "d4e5f60718192a3b",
+                            "a1b2c3d4e5f60718",
+                            "192a3b4c5d6e7f80",
+                            "1f4cc5a57007adf5",
+                            "18192a3b4c5d6e7f"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "d4e5f60718192a3b": 1,
+                            "a1b2c3d4e5f60718": 1,
+                            "192a3b4c5d6e7f80": 0,
+                            "1f4cc5a57007adf5": 0,
+                            "18192a3b4c5d6e7f": 0
+                        }
+                    },
+                    "time_b": {
+                        "jogadores": [
+                            "b2c3d4e5f6071819",
+                            "e5f60718192a3b4c",
+                            "559eb9e38b38c364",
+                            "a2b3c4d5e6f70819",
+                            "b3c4d5e6f708192a"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "b2c3d4e5f6071819": 0,
+                            "e5f60718192a3b4c": 0,
+                            "559eb9e38b38c364": 2,
+                            "a2b3c4d5e6f70819": 1,
+                            "b3c4d5e6f708192a": 0
+                        }
+                    },
+                    "placar_a": 2,
+                    "placar_b": 3,
+                    "vencedor": "b",
+                    "observacao": ""
+                },
+                {
+                    "id": "76b93e4bfe8a4bac",
+                    "time_a": {
+                        "jogadores": [
+                            "04bc008bd585f025",
+                            "91a2b3c4d5e6f708",
+                            "3b4c5d6e7f8091a2",
+                            "a1b2c3d4e5f60718",
+                            "18192a3b4c5d6e7f"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "04bc008bd585f025": 0,
+                            "91a2b3c4d5e6f708": 0,
+                            "3b4c5d6e7f8091a2": 0,
+                            "a1b2c3d4e5f60718": 0,
+                            "18192a3b4c5d6e7f": 0
+                        }
+                    },
+                    "time_b": {
+                        "jogadores": [
+                            "b2c3d4e5f6071819",
+                            "e5f60718192a3b4c",
+                            "559eb9e38b38c364",
+                            "a2b3c4d5e6f70819",
+                            "b3c4d5e6f708192a"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "b2c3d4e5f6071819": 1,
+                            "e5f60718192a3b4c": 1,
+                            "559eb9e38b38c364": 0,
+                            "a2b3c4d5e6f70819": 0,
+                            "b3c4d5e6f708192a": 1
+                        }
+                    },
+                    "placar_a": 0,
+                    "placar_b": 3,
+                    "vencedor": "b",
+                    "observacao": ""
+                },
+                {
+                    "id": "3274e90d1dadfc36",
+                    "time_a": {
+                        "jogadores": [
+                            "d4e5f60718192a3b",
+                            "192a3b4c5d6e7f80",
+                            "1f4cc5a57007adf5",
+                            "91a2b3c4d5e6f708",
+                            "04bc008bd585f025"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "d4e5f60718192a3b": 0,
+                            "192a3b4c5d6e7f80": 0,
+                            "1f4cc5a57007adf5": 0,
+                            "91a2b3c4d5e6f708": 0,
+                            "04bc008bd585f025": 0
+                        }
+                    },
+                    "time_b": {
+                        "jogadores": [
+                            "b2c3d4e5f6071819",
+                            "e5f60718192a3b4c",
+                            "559eb9e38b38c364",
+                            "a2b3c4d5e6f70819",
+                            "b3c4d5e6f708192a"
+                        ],
+                        "goleiro": null,
+                        "gols": {
+                            "b2c3d4e5f6071819": 0,
+                            "e5f60718192a3b4c": 0,
+                            "559eb9e38b38c364": 1,
+                            "a2b3c4d5e6f70819": 0,
+                            "b3c4d5e6f708192a": 0
+                        }
+                    },
+                    "placar_a": 0,
+                    "placar_b": 1,
+                    "vencedor": "b",
+                    "observacao": ""
+                }
+            ]
+        }
+    ]
+}
