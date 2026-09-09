@@ -1,0 +1,6 @@
+.idea/
+.env
+sql/users-data.sql
+tmp-migrate-tidb.php
+.vercel
+.env*

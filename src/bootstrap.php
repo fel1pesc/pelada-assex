@@ -2,23 +2,29 @@
 
 declare(strict_types=1);
 
-session_set_cookie_params([
-    'lifetime' => 0,
-    'path' => '/',
-    'httponly' => true,
-    'samesite' => 'Lax',
-]);
-session_start();
-
-require_once __DIR__ . '/Database.php';
 require_once __DIR__ . '/Mysql.php';
+require_once __DIR__ . '/Database.php';
+require_once __DIR__ . '/DbSessionHandler.php';
 require_once __DIR__ . '/PlayerRepository.php';
 require_once __DIR__ . '/PeladaRepository.php';
 require_once __DIR__ . '/UserRepository.php';
 
 const APP_NAME = 'Assex';
 
-$database = new Database(dirname(__DIR__) . '/database.json');
+$secure = (!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'off')
+    || (($_SERVER['HTTP_X_FORWARDED_PROTO'] ?? '') === 'https');
+
+session_set_cookie_params([
+    'lifetime' => 0,
+    'path' => '/',
+    'secure' => $secure,
+    'httponly' => true,
+    'samesite' => 'Lax',
+]);
+session_set_save_handler(new DbSessionHandler(), true);
+session_start();
+
+$database = new Database();
 $players = new PlayerRepository($database);
 $peladas = new PeladaRepository($database);
 $users = new UserRepository(Mysql::pdo());
