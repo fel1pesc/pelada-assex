@@ -17,11 +17,19 @@ final class Mysql
             return self::$pdo;
         }
 
-        $host = self::env('DB_HOST', 'mysql8');
-        $port = self::env('DB_PORT', '3306');
+        $onVercel = self::env('VERCEL', '') === '1';
+        $host = self::env('DB_HOST', $onVercel ? '' : 'mysql8');
+        $port = self::env('DB_PORT', $onVercel ? '4000' : '3306');
         $name = self::env('DB_NAME', 'assex');
-        $user = self::env('DB_USER', 'root');
-        $pass = self::env('DB_PASS', 'ar7711');
+        $user = self::env('DB_USER', $onVercel ? '' : 'root');
+        $pass = self::env('DB_PASS', $onVercel ? '' : 'ar7711');
+        $ssl = self::env('DB_SSL', $onVercel ? '1' : '') === '1';
+
+        if ($host === '' || $user === '' || $pass === '') {
+            throw new RuntimeException(
+                'Variáveis de ambiente do banco ausentes. No Vercel, cadastre DB_HOST, DB_PORT, DB_NAME, DB_USER, DB_PASS e DB_SSL=1 em Production e faça Redeploy.'
+            );
+        }
 
         $options = [
             PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION,
@@ -29,14 +37,16 @@ final class Mysql
             PDO::ATTR_EMULATE_PREPARES => false,
         ];
 
-        if (self::env('DB_SSL', '') === '1') {
+        if ($ssl) {
             $ca = self::env('DB_SSL_CA', '');
 
-            if ($ca === '') {
+            if ($ca === '' || !is_file($ca)) {
                 foreach ([
+                    dirname(__DIR__) . '/api/isrgrootx1.pem',
+                    __DIR__ . '/../api/isrgrootx1.pem',
                     '/etc/ssl/certs/ca-certificates.crt',
+                    '/etc/ssl/cert.pem',
                     '/etc/pki/tls/certs/ca-bundle.crt',
-                    'C:\\Program Files\\Git\\mingw64\\ssl\\certs\\ca-bundle.crt',
                 ] as $candidate) {
                     if (is_file($candidate)) {
                         $ca = $candidate;
@@ -45,27 +55,37 @@ final class Mysql
                 }
             }
 
-            if ($ca !== '') {
+            if ($ca !== '' && is_file($ca)) {
                 $options[PDO::MYSQL_ATTR_SSL_CA] = $ca;
-                $options[PDO::MYSQL_ATTR_SSL_VERIFY_SERVER_CERT] = true;
-            } else {
-                $options[PDO::MYSQL_ATTR_SSL_VERIFY_SERVER_CERT] = false;
             }
+
+            $options[PDO::MYSQL_ATTR_SSL_VERIFY_SERVER_CERT] = isset($options[PDO::MYSQL_ATTR_SSL_CA]);
         }
 
+        $dsn = sprintf('mysql:host=%s;port=%s;dbname=%s;charset=utf8mb4', $host, $port, $name);
+
         try {
-            self::$pdo = new PDO(
-                sprintf('mysql:host=%s;port=%s;dbname=%s;charset=utf8mb4', $host, $port, $name),
-                $user,
-                $pass,
-                $options
-            );
+            self::$pdo = new PDO($dsn, $user, $pass, $options);
         } catch (PDOException $exception) {
-            throw new RuntimeException(
-                'Não foi possível conectar ao MySQL. Confira DB_HOST, DB_PORT, DB_NAME, DB_USER e DB_PASS.',
-                0,
-                $exception
-            );
+            if ($ssl && isset($options[PDO::MYSQL_ATTR_SSL_CA])) {
+                $options[PDO::MYSQL_ATTR_SSL_VERIFY_SERVER_CERT] = false;
+
+                try {
+                    self::$pdo = new PDO($dsn, $user, $pass, $options);
+                } catch (PDOException $retry) {
+                    throw new RuntimeException(
+                        'Não foi possível conectar ao banco: ' . $retry->getMessage(),
+                        0,
+                        $retry
+                    );
+                }
+            } else {
+                throw new RuntimeException(
+                    'Não foi possível conectar ao banco: ' . $exception->getMessage(),
+                    0,
+                    $exception
+                );
+            }
         }
 
         self::ensureSchema(self::$pdo);
@@ -81,7 +101,7 @@ final class Mysql
             return $default;
         }
 
-        return (string) $value;
+        return trim((string) $value);
     }
 
     private static function ensureSchema(PDO $pdo): void

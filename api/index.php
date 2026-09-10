@@ -33,4 +33,14 @@ if (!in_array($script, $allowed, true) || !is_file($path)) {
 $_SERVER['SCRIPT_NAME'] = '/' . $script;
 $_SERVER['PHP_SELF'] = '/' . $script;
 chdir($root);
-require $path;
+
+try {
+    require $path;
+} catch (Throwable $exception) {
+    http_response_code(500);
+    header('Content-Type: text/html; charset=utf-8');
+    echo '<!DOCTYPE html><meta charset="utf-8"><pre>';
+    echo htmlspecialchars($exception->getMessage(), ENT_QUOTES | ENT_SUBSTITUTE, 'UTF-8');
+    echo '</pre>';
+    exit;
+}
