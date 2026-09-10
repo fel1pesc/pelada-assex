@@ -1,0 +1,16 @@
+{
+	auto_https off
+}
+
+:{$PORT:80} {
+	root * /app
+	encode gzip
+
+	@forbidden {
+		path /src/* /sql/* /api/* /.git* /database.json /Dockerfile.vercel /Caddyfile /vercel.json /composer.json
+	}
+	respond @forbidden 404
+
+	php_server
+	file_server
+}

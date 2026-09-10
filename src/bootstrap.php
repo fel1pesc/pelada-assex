@@ -21,8 +21,18 @@ session_set_cookie_params([
     'httponly' => true,
     'samesite' => 'Lax',
 ]);
-session_set_save_handler(new DbSessionHandler(), true);
-session_start();
+
+try {
+    session_set_save_handler(new DbSessionHandler(), true);
+    session_start();
+} catch (Throwable $exception) {
+    http_response_code(500);
+    header('Content-Type: text/html; charset=utf-8');
+    echo '<!DOCTYPE html><meta charset="utf-8"><pre>';
+    echo htmlspecialchars($exception->getMessage(), ENT_QUOTES | ENT_SUBSTITUTE, 'UTF-8');
+    echo '</pre>';
+    exit;
+}
 
 $database = new Database();
 $players = new PlayerRepository($database);
