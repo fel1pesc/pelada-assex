@@ -18,12 +18,12 @@ final class Mysql
         }
 
         $onVercel = self::env('VERCEL', '') === '1';
-        $host = self::env('DB_HOST', $onVercel ? '' : 'mysql8');
-        $port = self::env('DB_PORT', $onVercel ? '4000' : '3306');
-        $name = self::env('DB_NAME', 'assex');
-        $user = self::env('DB_USER', $onVercel ? '' : 'root');
-        $pass = self::env('DB_PASS', $onVercel ? '' : 'ar7711');
-        $ssl = self::env('DB_SSL', $onVercel ? '1' : '') === '1';
+        $host = self::credential('DB_HOST', $onVercel ? '' : 'mysql8');
+        $port = self::credential('DB_PORT', $onVercel ? '4000' : '3306');
+        $name = self::credential('DB_NAME', 'assex');
+        $user = self::credential('DB_USER', $onVercel ? '' : 'root');
+        $pass = self::credential('DB_PASS', $onVercel ? '' : 'ar7711');
+        $ssl = self::credential('DB_SSL', $onVercel ? '1' : '') === '1';
 
         if ($host === '' || $user === '' || $pass === '') {
             throw new RuntimeException(
@@ -56,10 +56,12 @@ final class Mysql
             }
 
             if ($ca !== '' && is_file($ca)) {
-                $options[PDO::MYSQL_ATTR_SSL_CA] = $ca;
+                $options[self::mysqlSslAttr('SSL_CA')] = $ca;
             }
 
-            $options[PDO::MYSQL_ATTR_SSL_VERIFY_SERVER_CERT] = isset($options[PDO::MYSQL_ATTR_SSL_CA]);
+            $sslCaAttr = self::mysqlSslAttr('SSL_CA');
+            $sslVerifyAttr = self::mysqlSslAttr('SSL_VERIFY');
+            $options[$sslVerifyAttr] = isset($options[$sslCaAttr]);
         }
 
         $dsn = sprintf('mysql:host=%s;port=%s;dbname=%s;charset=utf8mb4', $host, $port, $name);
@@ -67,8 +69,8 @@ final class Mysql
         try {
             self::$pdo = new PDO($dsn, $user, $pass, $options);
         } catch (PDOException $exception) {
-            if ($ssl && isset($options[PDO::MYSQL_ATTR_SSL_CA])) {
-                $options[PDO::MYSQL_ATTR_SSL_VERIFY_SERVER_CERT] = false;
+            if ($ssl && isset($sslVerifyAttr)) {
+                $options[$sslVerifyAttr] = false;
 
                 try {
                     self::$pdo = new PDO($dsn, $user, $pass, $options);
@@ -102,6 +104,26 @@ final class Mysql
         }
 
         return trim((string) $value);
+    }
+
+    private static function credential(string $key, string $default): string
+    {
+        $value = preg_replace('/\s+/', '', self::env($key, $default));
+
+        return $value ?? $default;
+    }
+
+    private static function mysqlSslAttr(string $name): int
+    {
+        if (class_exists(\Pdo\Mysql::class)) {
+            return $name === 'SSL_CA'
+                ? \Pdo\Mysql::ATTR_SSL_CA
+                : \Pdo\Mysql::ATTR_SSL_VERIFY_SERVER_CERT;
+        }
+
+        return $name === 'SSL_CA'
+            ? PDO::MYSQL_ATTR_SSL_CA
+            : PDO::MYSQL_ATTR_SSL_VERIFY_SERVER_CERT;
     }
 
     private static function ensureSchema(PDO $pdo): void
